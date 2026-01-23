@@ -1,5 +1,3 @@
-
-
 msgid ""
 msgstr ""
 "Project-Id-Version: slippi-launcher 1.0\n"
@@ -9,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 "x-generator: i18next-auto-keys CLI\n"
 "Language: ja-JP\n"
-"PO-Revision-Date: 2025-12-12T18:12:58.256Z\n"
+"PO-Revision-Date: 2026-01-23T00:05:33.931Z\n"
 
 #: src/renderer/components/activate_online_form/activate_online_form.messages.ts:3:30
 msgid "2-4 uppercase English characters"

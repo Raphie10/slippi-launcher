@@ -6,6 +6,7 @@ export const SUPPORTED_LANGUAGES: { value: SupportedLanguage; label: string }[] 
   { value: "ja", label: "日本語" },
   { value: "ru", label: "Русский" },
   { value: "pt", label: "Português" },
+  { value: "fr", label: "Français" },
 ];
 
 export function getSystemLanguage(): string {

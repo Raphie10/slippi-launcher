@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "x-generator: i18next-auto-keys CLI\n"
 "Language: pt-BR\n"
-"PO-Revision-Date: 2025-12-12T19:33:20.002Z\n"
+"PO-Revision-Date: 2026-01-23T00:05:33.918Z\n"
 
 #: src/renderer/components/activate_online_form/activate_online_form.messages.ts:3:30
 msgid "2-4 uppercase English characters"
