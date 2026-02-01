@@ -1,7 +1,7 @@
 import type { FormatOptions } from "date-fns";
 import { format, intervalToDuration } from "date-fns";
 import type { Locale } from "date-fns/locale";
-import { es, ja, ptBR, ru } from "date-fns/locale";
+import { es, fr, ja, ptBR, ru } from "date-fns/locale";
 
 import type { SupportedLanguage } from "@/services/i18n/util";
 
@@ -48,6 +48,8 @@ export function getLocale(language: SupportedLanguage): Locale | undefined {
   switch (language) {
     case "es":
       return es;
+    case "fr":
+      return fr;
     case "ja":
       return ja;
     case "ru":

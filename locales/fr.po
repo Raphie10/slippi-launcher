@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "x-generator: i18next-auto-keys CLI\n"
 "Language: fr\n"
-"PO-Revision-Date: 2026-01-23T00:05:33.940Z\n"
+"PO-Revision-Date: 2026-01-29T23:31:40.130Z\n"
 
 #: src/renderer/components/activate_online_form/activate_online_form.messages.ts:3:30
 msgid "2-4 uppercase English characters"
@@ -15,11 +15,11 @@ msgstr "2-4 caractères en majuscule"
 
 #: src/renderer/pages/quick_start/steps/iso_selection_step/iso_selection_step.messages.ts:10:40
 msgid "7z files must be uncompressed to be used in Dolphin."
-msgstr "Les archives 7z doivent être décompressés pour être utilisés dans Dolphin."
+msgstr "Les archives 7z doivent être décompressées pour être utilisées dans Dolphin."
 
 #: src/renderer/pages/quick_start/steps/verify_email_step/verify_email_step.messages.ts:8:42
 msgid "A confirmation email has been sent to:"
-msgstr "Un mail de confirmation a été envoyé à:"
+msgstr "Un e-mail de confirmation a été envoyé à:"
 
 #: src/renderer/listeners/listeners.messages.ts:3:23
 msgid "A network error occurred."
@@ -54,7 +54,7 @@ msgstr "Ajouter un autre compte"
 
 #: src/renderer/pages/settings/replay_settings/replay_settings.messages.ts:12:31
 msgid "Additional SLP Folders"
-msgstr "Dossiers SLP Additionel"
+msgstr "Dossiers SLP Additionnels"
 
 #: src/renderer/pages/settings/create.messages.ts:12:19
 msgid "Advanced"
@@ -71,17 +71,17 @@ msgid ""
 "capture) when the game is active. Requires OBS Websocket 5.0+, which comes "
 "preinstalled on OBS 28+."
 msgstr ""
-"Permettre de cacher et montrer automatiquement une source OBS (par example, "
-"votre enregistrement de Dolphin) quand le jeux tourne. Demande un Websocket "
-"OBS 5.0+, qui est préinstalée dans OBS 28+."
+"Permet de cacher et montrer automatiquement une source OBS (par exemple, "
+"votre enregistrement de Dolphin) quand le jeu est lancé. Requiert une "
+"Websocket OBS 5.0+, qui est préinstallée dans OBS 28+."
 
 #: src/renderer/pages/console_mirror/add_connection_dialog/add_connection_form.messages.ts:24:33
 msgid ""
 "Allows external programs to read live game data by connecting to a local "
 "endpoint."
 msgstr ""
-"Permettre a des programmes externes de lire les données du jeux en "
-"établissant .une connection locale."
+"Permettre a des programmes externes de lire les données du jeu en "
+"établissant une connexion locale."
 
 #: src/renderer/pages/settings/spectate_settings/spectate_settings.messages.ts:3:49
 msgid "Allows remote control of spectate features via WebSocket."
@@ -92,7 +92,7 @@ msgstr ""
 #: src/renderer/pages/quick_start/steps/accept_rules_step/accept_rules_step.messages.ts:22:27
 #: src/renderer/pages/quick_start/steps/verify_email_step/verify_email_step.messages.ts:12:27
 msgid "An error occurred. The application does not have a user."
-msgstr "Une erreur s'est produite. L'application n'as pas d'utilisateur détécté."
+msgstr "Une erreur s'est produite. L'application n'a pas d'utilisateur détecté."
 
 #: src/renderer/pages/settings/appearance_settings/language_selector/language_selector.messages.ts:2:22
 msgid "App Language"
@@ -168,7 +168,7 @@ msgstr "Peut être modifié ultérieurement contre un paiement unique"
 #: src/renderer/pages/quick_start/steps/verify_email_step/verify_email_step.messages.ts:5:24
 msgid "Can't find the email? Check your spam folder. Still missing? "
 msgstr ""
-"Vous n'arrivez pas à trouver le mail? Vérifiez vos spams. Toujours "
+"Vous n'arrivez pas à trouver l'e-mail? Vérifiez vos spams. Toujours "
 "introuvable? "
 
 #: src/renderer/app/header/header.messages.ts:14:17
@@ -187,7 +187,7 @@ msgstr "Changer de dossier"
 
 #: src/renderer/pages/quick_start/steps/verify_email_step/verify_email_step.messages.ts:10:22
 msgid "Change email"
-msgstr "Changer de mail"
+msgstr "Changer d'e-mail"
 
 #: src/renderer/pages/settings/create.messages.ts:5:15
 msgid "Chat"
@@ -301,7 +301,7 @@ msgstr "Confirmer"
 
 #: src/renderer/pages/replays/replay_browser/file_selection_toolbar/file_selection_toolbar.messages.ts:8:30
 msgid "Confirm File Deletion"
-msgstr "Confirmer la supression des fichiers"
+msgstr "Confirmer la suppression des fichiers"
 
 #: src/renderer/components/activate_online_form/activate_online_form.messages.ts:6:22
 msgid "Confirm code"
@@ -328,16 +328,16 @@ msgstr "Connexion en cours"
 
 #: src/renderer/pages/console_mirror/add_connection_dialog/add_connection_form.messages.ts:25:25
 msgid "Connection Port"
-msgstr "Port de Conexion"
+msgstr "Port de Connexion"
 
 #: src/renderer/app/create.messages.ts:5:18
 #: src/renderer/pages/console_mirror/console_mirror.messages.ts:2:24
 msgid "Console Mirror"
-msgstr "Mirroir de Console"
+msgstr "Miroir de Console"
 
 #: src/renderer/pages/console_mirror/new_connection_list/new_connection_list.messages.ts:3:27
 msgid "Consoles detected on the network will show up here."
-msgstr "Les consoles détéctés sur le réseau seront affichés ici."
+msgstr "Les consoles détectées sur le réseau seront affichées ici."
 
 #: src/renderer/components/login_form/login_form.messages.ts:15:19
 #: src/renderer/pages/quick_start/steps/setup_complete_step/setup_complete_step.messages.ts:3:19
@@ -387,7 +387,7 @@ msgstr "Dossier actuel"
 
 #: src/renderer/pages/settings/chat_settings/chat_settings.messages.ts:4:18
 msgid "Default"
-msgstr "Par Défault"
+msgstr "Par Défaut"
 
 #: src/renderer/pages/console_mirror/saved_connections_list/saved_connections_list.messages.ts:3:17
 #: src/renderer/pages/replays/replay_browser/file_list/file_list.messages.ts:3:17
@@ -436,7 +436,7 @@ msgid ""
 "Display names can only contain letters, numbers, Hiragana, Katakana, and "
 "special characters"
 msgstr ""
-"Les noms d’affichages ne peuvent contenire que des lettres, des nombres, du "
+"Les noms d’affichages ne peuvent contenir que des lettres, des nombres, du "
 "Hiragana, du Katakana et des caractères spéciaux"
 
 #: src/renderer/pages/settings/create.messages.ts:7:26
@@ -460,14 +460,14 @@ msgid ""
 "click \"Copy logs\", and paste them in the Slippi Discord's "
 "#windows-support channel with some context regarding the crash."
 msgstr ""
-"Dolphin s'est fermé de manière inatendu. Merci d'aller a la section Aide de "
-"la page de paramètres, cliquez sur \"Copier les logs\", et copiez les dans "
-"la discussion #windows-support du Discord Slippi avec le context de la "
-"femeture."
+"Dolphin s'est fermé de manière inattendu. Merci d'aller a la section Aide "
+"de la page de paramètres, cliquez sur \"Copier les logs\", et copiez les "
+"dans la discussion #windows-support du Discord Slippi avec le contexte de "
+"la fermeture."
 
 #: src/renderer/app/header/user_menu/user_menu.messages.ts:16:39
 msgid "Dolphin is currently running. Close Dolphin to switch accounts"
-msgstr "Dolphin est en train de fonctionner. Fermez Dolphin pour changer de compte."
+msgstr "Dolphin est en cours d'exécution. Fermez Dolphin pour changer de compte."
 
 #: src/renderer/pages/replays/replay_browser/replay_file/replay_file.messages.ts:6:28
 #: src/renderer/pages/replays/replay_file_stats/game_profile_header/game_profile_header.messages.ts:6:28
@@ -565,20 +565,20 @@ msgstr ""
 #: src/renderer/pages/settings/dolphin_settings/gecko_codes/gecko_codes.messages.ts:3:53
 #. {0} errorMessage: string
 msgid "Error reading gecko codes: {0}"
-msgstr "Une erreur a été rencontée en lisant des codes gecko: {0}"
+msgstr "Une erreur a été rencontrée lors de la lecture des codes gecko: {0}"
 
 #: src/renderer/pages/settings/help_page/support_box/network_diagnostics_button/network_diagnostics_button.messages.ts:3:34
 msgid "Error running network diagnostics"
-msgstr "Une erreur a été rencontée en faisant un diagnostique réseau"
+msgstr "Une erreur a été rencontrée en faisant un diagnostic réseau"
 
 #: src/renderer/pages/settings/dolphin_settings/gecko_codes/gecko_codes.messages.ts:4:52
 #. {0} errorMessage: string
 msgid "Error saving gecko codes: {0}"
-msgstr "Une erreur a été rencontée en sauvegardant des codes gecko: {0}"
+msgstr "Une erreur a été rencontrée en sauvegardant des codes gecko: {0}"
 
 #: src/renderer/pages/spectate/spectate_remote_control_block/spectate_remote_control_block.messages.ts:3:30
 msgid "Error starting server"
-msgstr "Une erreur a été rencontée en démarrant le serveur"
+msgstr "Une erreur a été rencontrée en démarrant le serveur"
 
 #: src/renderer/pages/settings/help_page/support_box/network_diagnostics_button/network_diagnostic_result/network_diagnostics_result.messages.ts:3:28
 msgid "External IP Address"
@@ -655,8 +655,8 @@ msgid ""
 "First give this ID to the person whose gameplay you want to watch. Then "
 "after they have started their broadcast, click Refresh."
 msgstr ""
-"Donnez d'abord cet ID à la personne que vous voulez regarder. Ensuite quand "
-"ils ont diffusion, cliquez sur Actualiser.."
+"Donnez d'abord cet ID à la personne que vous voulez regarder.Une fois "
+"qu'ils ont lancé leur diffusion, cliquez sur Actualiser"
 
 #: src/renderer/components/footer/footer.messages.ts:3:26
 msgid "Follow Project Slippi on Twitter"
@@ -672,11 +672,11 @@ msgstr "Jeu"
 
 #: src/renderer/pages/replays/replay_file_stats/replay_file_stats.messages.ts:7:47
 msgid "Game stats for team battles is unsupported"
-msgstr "Les statistiques pour les combat d'équipe ne sont pas supportés"
+msgstr "Les statistiques pour les combats en équipe ne sont pas supportés"
 
 #: src/renderer/pages/settings/create.messages.ts:2:26
 msgid "General Settings"
-msgstr "Configuration Generale"
+msgstr "Configuration Générale"
 
 #: src/renderer/components/login_form/login_form.messages.ts:17:17
 #: src/renderer/pages/replays/replay_file_stats/replay_file_stats.messages.ts:3:17
@@ -727,7 +727,7 @@ msgstr "J'ai déjà un compte"
 
 #: src/renderer/components/build_info/build_info.messages.ts:2:19
 msgid "I hope you know what you're doing..."
-msgstr "J'espère que tu sait ce que tu fait..."
+msgstr "J'espère que vous savez ce que vous faites..."
 
 #: src/renderer/pages/console_mirror/add_connection_dialog/add_connection_form.messages.ts:2:20
 msgid "IP Address"
@@ -906,7 +906,7 @@ msgstr ""
 
 #: src/renderer/pages/replays/replay_browser/filter_toolbar/filter_toolbar.messages.ts:3:21
 msgid "Most recent"
-msgstr "Plus récent"
+msgstr "Plus récents"
 
 #: src/renderer/pages/settings/help_page/support_box/network_diagnostics_button/network_diagnostic_result/network_diagnostics_result.messages.ts:12:18
 msgid "NAT Type"
@@ -978,11 +978,11 @@ msgstr "Aucune ISO Melee n'a été donnée"
 
 #: src/renderer/pages/replays/replay_browser/replay_browser.messages.ts:5:26
 msgid "No SLP files found"
-msgstr "Aucun fichiers SLP trouvés"
+msgstr "Aucun fichier SLP trouvé"
 
 #: src/renderer/components/multi_path_input/multi_path_input.messages.ts:2:35
 msgid "No additional folders added."
-msgstr "Aucun dossier en plus ont été trouvé."
+msgstr "Aucun dossier supplémentaire n'a été trouvé."
 
 #: src/renderer/pages/spectate/share_gameplay_block/start_broadcast_dialog.messages.ts:7:32
 msgid "No associated user found"
@@ -1002,19 +1002,19 @@ msgstr "Aucun dossier défini"
 
 #: src/renderer/app/header/header.messages.ts:11:30
 msgid "No network connection"
-msgstr "Aucun connexion réseau"
+msgstr "Aucune connexion réseau"
 
 #: src/renderer/pages/console_mirror/saved_connections_list/saved_connections_list.messages.ts:4:29
 msgid "No saved console connections"
-msgstr "Aucune connexion de console trouvé"
+msgstr "Aucune connexion de console trouvée"
 
 #: src/renderer/pages/replays/replay_file_stats/replay_file_stats.messages.ts:6:26
 msgid "No stats computed"
-msgstr "Aucune statistique calculé"
+msgstr "Aucune statistique calculée"
 
 #: src/renderer/pages/spectate/spectate_page.messages.ts:3:18
 msgid "No users are broadcasting to you"
-msgstr "Aucun utilisateur de vous transmet d'information"
+msgstr "Aucun utilisateur ne vous transmet d'information"
 
 #: src/renderer/pages/settings/help_page/support_box/network_diagnostics_button/network_diagnostic_result/network_diagnostics_result.messages.ts:13:20
 msgid "Normal NAT"
@@ -1066,7 +1066,7 @@ msgstr "L'activation en ligne est requise"
 
 #: src/renderer/lib/validate/validate.messages.ts:4:39
 msgid "Only English characters are allowed"
-msgstr "Seuls les caractères anglais standard son autorisés"
+msgstr "Seuls les caractères anglais standards son autorisés"
 
 #: src/renderer/app/header/header.messages.ts:10:41
 msgid "Only logged in users can play online."
@@ -1074,7 +1074,7 @@ msgstr "Seuls les utilisateurs connectés peuvent jouer en ligne."
 
 #: src/renderer/pages/console_mirror/add_connection_dialog/add_connection_form.messages.ts:12:45
 msgid "Only modify these values if you know what you're doing."
-msgstr "Ne modifie ces valeurs que si tu sait ce que tu fait."
+msgstr "Ne modifiez ces valeurs que si vous savez ce que vous faites."
 
 #: src/renderer/pages/settings/dolphin_settings/dolphin_settings.messages.ts:11:35
 msgid "Open settings folder"
@@ -1107,7 +1107,7 @@ msgstr "Coller des Codes Gecko"
 
 #: src/renderer/app/header/play_button/play_button.messages.ts:2:15
 msgid "Play"
-msgstr "Lire"
+msgstr "Jouer"
 
 #: src/renderer/pages/replays/replay_browser/file_selection_toolbar/file_selection_toolbar.messages.ts:7:18
 msgid "Play All"
@@ -1176,7 +1176,7 @@ msgstr "Un port doit être un nombre entre 1 et 65535"
 #: src/renderer/pages/home/news_feed/news_article/news_article.messages.ts:6:32
 #. {0} timeAgo: string
 msgid "Posted {0}"
-msgstr "Posté il y a {0}"
+msgstr "Posté {0}"
 
 #: src/renderer/pages/settings/chat_settings/chat_settings.messages.ts:6:18
 msgid "Premium"
@@ -1229,8 +1229,8 @@ msgid ""
 "Ranked play is currently available for everyone. Try it now! Available once "
 "every 4 days."
 msgstr ""
-"Le jeux Ranked est disponible pour tout le monde. Essayez le maintenant! Il "
-"est disponible un fois tout les 4 jours."
+"Le jeu Ranked est disponible pour tout le monde. Essayez-le maintenant! Il "
+"est disponible une fois tous les 4 jours."
 
 #: src/renderer/app/header/account_switcher/account_switcher.messages.ts:3:32
 msgid "Re-authenticate account"
@@ -1310,7 +1310,7 @@ msgstr "Réinitialiser"
 
 #: src/renderer/pages/settings/spectate_settings/spectate_port_form/spectate_port_form.messages.ts:5:25
 msgid "Reset to default"
-msgstr "Réinitialiser les paramètre par défault"
+msgstr "Réinitialiser les paramètre par défaut"
 
 #: src/renderer/pages/settings/dolphin_settings/dolphin_settings.messages.ts:16:46
 #. {0} dolphinTypeName: string
@@ -1390,7 +1390,7 @@ msgstr "Sélectionne ta langue préférée pour l'application."
 
 #: src/renderer/pages/quick_start/steps/verify_email_step/verify_email_step.messages.ts:6:20
 msgid "Send verification email again"
-msgstr "Renvoyer un mail de vérification"
+msgstr "Renvoyer un e-mail de vérification"
 
 #: src/renderer/app/header/header.messages.ts:7:19
 msgid "Settings"
@@ -1402,7 +1402,7 @@ msgstr "Partage to gameplay"
 
 #: src/renderer/pages/replays/replay_browser/filter_toolbar/filter_toolbar.messages.ts:6:23
 msgid "Shortest game"
-msgstr "Parties les plus courte"
+msgstr "Parties les plus courtes"
 
 #: src/renderer/pages/console_mirror/add_connection_dialog/add_connection_form.messages.ts:10:30
 msgid "Show advanced options"
@@ -1635,8 +1635,8 @@ msgid ""
 "The port used for connecting to console. Only change this if connecting to "
 "a Console Relay. If unsure, leave it as {0}."
 msgstr ""
-"Le port utilisé pour se connecter a une console. Ne changez ceci uniquement "
-"si vous vous connectez a Console Relay. Si non, laissez le sur: {0}."
+"Le port utilisé pour se connecter a une console. Ne le changez que si vous "
+"vous connectez a Console Relay. Si non, laissez le sur: {0}."
 
 #: src/renderer/pages/spectate/share_gameplay_block/start_broadcast_dialog.messages.ts:3:44
 msgid "The unique viewer code of the spectator."
@@ -1649,11 +1649,11 @@ msgid ""
 "is not an exhaustive list, we reserve the right to suspend or ban an "
 "account for any reason."
 msgstr ""
-"Ces règles sont les règles à suivre en utilisant Slippi. Aller à l'encontre "
-"de ces règles peut résulter en un bannisement temporaires ou permanent "
-"selon la gravité et fréquence. Ce n'est pas une liste exhaustive, et nous "
-"réservons le droit de bannir n'importe quel compte pour n'importe quelle "
-"raison."
+"Voici un ensemble de règles à suivre lors de l’utilisation de Slippi. Le "
+"non-respect  de ces règles peut entraîner un bannisement temporaires ou "
+"permanent selon la gravité et fréquence. Cette liste n’est pas exhaustive, "
+"et nous réservons le droit de bannir n'importe quel compte pour n'importe "
+"quelle raison."
 
 #: src/renderer/pages/quick_start/steps/iso_selection_step/iso_selection_step.messages.ts:3:34
 msgid "This application uses an NTSC 1.02 game backup."
@@ -1765,7 +1765,7 @@ msgstr "Valide"
 
 #: src/renderer/pages/quick_start/steps/verify_email_step/verify_email_step.messages.ts:2:26
 msgid "Verify your email"
-msgstr "Vérifie ton adress email"
+msgstr "Vérifie ton adresse email"
 
 #: src/renderer/pages/quick_start/steps/iso_selection_step/iso_selection_step.messages.ts:4:23
 msgid "Verifying ISO..."
@@ -1810,7 +1810,7 @@ msgid ""
 "Visit your email, click the link in the verification email, and then check "
 "verification"
 msgstr ""
-"Regarde tes mails, clique sur le lien dans le mail de vérification, "
+"Regarde tes mails, clique sur le lien dans l'e-mail de vérification, "
 "yetactive la confirmation"
 
 #: src/renderer/pages/console_mirror/console_mirror.messages.ts:4:26
@@ -1890,7 +1890,7 @@ msgstr ""
 
 #: src/renderer/pages/quick_start/steps/iso_selection_step/iso_selection_step.messages.ts:5:28
 msgid "or drag and drop here"
-msgstr "ou glissez-déposez ici"
+msgstr "ou glisser-déposer ici"
 
 #: src/renderer/pages/replays/replay_browser/replay_browser.messages.ts:8:5
 #. {0} count: number
